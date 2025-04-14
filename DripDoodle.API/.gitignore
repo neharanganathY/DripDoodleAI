@@ -1,0 +1,32 @@
+﻿# Ignore Visual Studio folders
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# Node dependencies (if using React)
+node_modules/
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# App images or temp folders (optional)
+wwwroot/images/
+# Ignore compiled and sensitive folders
+bin/
+obj/
+*.json
